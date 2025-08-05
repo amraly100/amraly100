@@ -12,6 +12,8 @@
   </a>
 </p> 
 
+---
+
 - 🎓 I'm a **Digital Design Engineer student** at **Benha University**, Communication & Electronics Department, Class of **2026**.
 - 💡 Passionate about **Hardware Design**, **RTL coding**, and exploring computer architecture at a low level.
 - 🔧 I build projects in **Verilog**, **VHDL**, and simulate/test with tools like **ModelSim**, **Vivado**, and **Icarus Verilog**.
@@ -26,6 +28,7 @@
 ---
 
 ### 📂 Notable Projects
+
 - 🛠️ [UART in Verilog](#)
 - 🧠 [MIPS CPU from Scratch](#)
 - ⚙️ [RISC Core in VHDL](#)
@@ -36,15 +39,25 @@
 
 ### 🌐 Contact Me
 
-<a href="https://www.linkedin.com/in/amr-aly-a2633b367" target="_blank">
-  <img src="https://img.shields.io/badge/-Amr%20Aly-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-</a>
-
-<p>
-  📧 <strong>Email:</strong> amr321aly@gmail.com  
-  <br>
-  📱 <strong>Phone:</strong> +20 1550604368
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/amr-aly-a2633b367" target="_blank">
+        <img src="https://img.shields.io/badge/Amr%20Aly-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Email-amr321aly@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Phone-%2B20%201550604368-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
