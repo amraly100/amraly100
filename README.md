@@ -12,14 +12,14 @@
   </a>
 </p> 
 
-- 🎓 I'm a **Digital Design Engineer student** at **Benha University** (Faculty of Engineering), Communication & Electronics Department, Class of **2026**.
+- 🎓 I'm a **Digital Design Engineer student** at **Benha University**, Communication & Electronics Department, Class of **2026**.
 - 💡 Passionate about **Hardware Design**, **RTL coding**, and exploring computer architecture at a low level.
 - 🔧 I build projects in **Verilog**, **VHDL**, and simulate/test with tools like **ModelSim**, **Vivado**, and **Icarus Verilog**.
 - 💻 Projects include: 
-  - ✅ UART (Verilog)
+  - ✅ UART in Verilog
   - ✅ MIPS & RISC CPU Designs
   - ✅ Asynchronous FIFO
-  - ✅ ALU, Register Files, Control Units, and more.
+  - ✅ ALU, Register Files, Control Units, etc.
 - 📚 Currently learning about **SoC Design**, **Timing Closure**, and **FPGA implementation**.
 - ⚡ Fun Fact: I enjoy breaking complex digital logic into clean, efficient RTL designs.
 
@@ -32,18 +32,19 @@
 - 🚀 [Asynchronous FIFO with Gray Code Pointers](#)
 - 🔄 [Pipelined ALU and Control Unit](#)
 
-> *(Links can be added when your repositories are public or ready!)*
-
 ---
 
-### 🌐 Connect with Me
+### 🌐 Contact Me
 
-<a href="https://linkedin.com/in/amr-aly-eng" target="_blank">
+<a href="https://www.linkedin.com/in/amr-aly-a2633b367" target="_blank">
   <img src="https://img.shields.io/badge/-Amr%20Aly-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
-<a href="https://t.me/amr_aly_26" target="_blank">
-  <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"/>
-</a>
+
+<p>
+  📧 <strong>Email:</strong> amr321aly@gmail.com  
+  <br>
+  📱 <strong>Phone:</strong> +20 1550604368
+</p>
 
 ---
 
